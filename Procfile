@@ -1,0 +1,1 @@
+worker: JScrpt bot.js
